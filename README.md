@@ -1,4 +1,4 @@
-# 🌟 Experiência IBM – Julia Costa Bert=gstron
+# 🌟 Experiência IBM – Julia Costa Bergstron
 
 Bem-vindo(a) ao meu repositório da **Experiência IBM**!  
 Este espaço reúne todas as etapas, aprendizados e projetos que desenvolvi ao longo da minha jornada no programa da **IBM SkillsBuild**, incluindo **atividades, visitas, reuniões e o desenvolvimento do projeto final Vendedoors**.
