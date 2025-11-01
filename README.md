@@ -83,4 +83,4 @@ Este repositório é um registro de tudo o que aprendi e conquistei ao longo des
 
 📧 **E-mail:** [julia.bergstron@etec.sp.gov.br]  
 💼 **LinkedIn:** [[Julia Bergstron](https://www.linkedin.com/in/julia-bergstron-917400395?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]  
-🌐 **Projeto Vendedoors:** []
+🌐 **Projeto Vendedoors:** [https://github.com/Juliabergstron/Vendedoors]
